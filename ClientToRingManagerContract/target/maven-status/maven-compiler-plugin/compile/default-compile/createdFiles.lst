@@ -1,0 +1,17 @@
+chat\ServerProviderGrpc$ServerProviderFileDescriptorSupplier.class
+chat\ServerProviderGrpc$ServerProviderImplBase.class
+chat\EndPoint.class
+chat\ServerProviderGrpc$ServerProviderFutureStub.class
+chat\ServerProviderGrpc$3.class
+chat\ServerProviderGrpc$ServerProviderStub.class
+chat\Chat.class
+chat\ServerProviderGrpc.class
+chat\EndPoint$Builder.class
+chat\EndPointOrBuilder.class
+chat\ServerProviderGrpc$2.class
+chat\ServerProviderGrpc$ServerProviderBlockingStub.class
+chat\ServerProviderGrpc$ServerProviderMethodDescriptorSupplier.class
+chat\ServerProviderGrpc$1.class
+chat\EndPoint$1.class
+chat\ServerProviderGrpc$MethodHandlers.class
+chat\ServerProviderGrpc$ServerProviderBaseDescriptorSupplier.class
