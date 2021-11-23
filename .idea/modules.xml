@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChatClient/ChatClient.iml" filepath="$PROJECT_DIR$/ChatClient/ChatClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRingManager/ChatRingManager.iml" filepath="$PROJECT_DIR$/ChatRingManager/ChatRingManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatServer/ChatServer.iml" filepath="$PROJECT_DIR$/ChatServer/ChatServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientToRingManagerContract/ClientToRingManagerContract.iml" filepath="$PROJECT_DIR$/ClientToRingManagerContract/ClientToRingManagerContract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientToServerContract/ClientToServerContract.iml" filepath="$PROJECT_DIR$/ClientToServerContract/ClientToServerContract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerToRingManagerContract/ServerToRingManagerContract.iml" filepath="$PROJECT_DIR$/ServerToRingManagerContract/ServerToRingManagerContract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerToServerContract/ServerToServerContract.iml" filepath="$PROJECT_DIR$/ServerToServerContract/ServerToServerContract.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/gRPC-Chat.iml" filepath="$PROJECT_DIR$/.idea/gRPC-Chat.iml" />
     </modules>
   </component>
