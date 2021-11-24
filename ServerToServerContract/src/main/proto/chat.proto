@@ -5,11 +5,11 @@ option java_package = "chat";
 
 package forum;
 
-service Broadcast {
-    rpc broadcastMessage(BroadcastMessage) returns (google.protobuf.Empty);
+service Share {
+    rpc shareMessage(SharedMessage) returns (google.protobuf.Empty);
 }
 
-message BroadcastMessage {
+message SharedMessage {
     string fromUser = 1;
     EndPoint originServer = 2;
     string txtMsg = 3;

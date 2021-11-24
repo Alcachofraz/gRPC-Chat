@@ -10,17 +10,20 @@ import java.util.logging.Level;
 
 public class ChatServerClient extends ChatGrpc.ChatImplBase {
 
-    private final BroadcastGrpc.BroadcastBlockingStub blockingStubBroadcast;
+    private final ShareGrpc.ShareBlockingStub blockingStubShare;
 
-    public ChatServerClient(BroadcastGrpc.BroadcastBlockingStub blockingStubBroadcast) {
-        this.blockingStubBroadcast = blockingStubBroadcast;
+    public ChatServerClient(ShareGrpc.ShareBlockingStub blockingStubShare) {
+        this.blockingStubShare = blockingStubShare;
     }
 
     @Override
     public void sendMessage(ChatMessage inMessage, StreamObserver<Empty> responseObserver) {
-        ChatServer.logger.log(Level.INFO, "CLIENT/SERVER: Broadcasting to next server...");
-        blockingStubBroadcast.broadcastMessage(
-                BroadcastMessage.newBuilder()
+        ChatServer.broadcastMessageToClients(inMessage.getFromUser(), inMessage.getTxtMsg());
+        ChatServer.logger.log(Level.INFO, "CLIENT-SERVER: Sharing message with local clients...");
+
+        ChatServer.logger.log(Level.INFO, "CLIENT-SERVER: Sharing message with next server...\n");
+        blockingStubShare.shareMessage(
+                SharedMessage.newBuilder()
                         .setFromUser(inMessage.getFromUser())
                         .setTxtMsg(inMessage.getTxtMsg())
                         .setOriginServer(
@@ -31,10 +34,6 @@ public class ChatServerClient extends ChatGrpc.ChatImplBase {
                         ).build()
         );
 
-        ChatServer.broadcastMessageToClients(inMessage.getFromUser(), inMessage.getTxtMsg());
-        ChatServer.logger.log(Level.INFO, "CLIENT/SERVER: Broadcasting to local clients...");
-        ChatServer.logger.log(Level.INFO, "");
-
         responseObserver.onNext(Empty.newBuilder().build());
         responseObserver.onCompleted();
 
@@ -42,12 +41,12 @@ public class ChatServerClient extends ChatGrpc.ChatImplBase {
 
     @Override
     public void register(UserID clientID, StreamObserver<ChatMessage> responseObserver) {
-        ChatServer.logger.log(Level.INFO, "Registering user " + clientID + ".");
+        ChatServer.logger.log(Level.INFO, "Registering user " + clientID);
         synchronized (ChatServer.clients) {
             if (!ChatServer.clients.containsKey(clientID))
                 ChatServer.clients.put(clientID, responseObserver);
             else {
-                System.out.println("Client " + clientID.getName() + " already taken");
+                System.out.println("Client " + clientID.getName() + " already taken\n");
                 Throwable t = new StatusException(
                         Status.INVALID_ARGUMENT.withDescription("Client nickname already taken")
                 );

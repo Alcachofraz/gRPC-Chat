@@ -3,306 +3,104 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="197966d2-5bd8-4ec4-afa8-bb51bbdc636e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__com_google_guava_guava_30_0_android.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__io_grpc_grpc_api_1_37_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__io_grpc_grpc_context_1_37_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__io_grpc_grpc_core_1_37_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_37_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_37_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_37_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__io_grpc_grpc_stub_1_37_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatClient/ChatClient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRingManager/ChatRingManager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__com_google_guava_guava_30_1_android.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__io_grpc_grpc_api_1_41_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__io_grpc_grpc_context_1_41_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__io_grpc_grpc_core_1_41_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_41_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_41_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_41_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__io_grpc_grpc_stub_1_41_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__io_perfmark_perfmark_api_0_23_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/ChatServer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientToRingManagerContract/ClientToRingManagerContract.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientToServerContract/ClientToServerContract.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServerToRingManagerContract/ServerToRingManagerContract.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServerToServerContract/ServerToServerContract.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G11-CD2122-TP1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/ShareGrpc$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/ShareGrpc$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/ShareGrpc$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/ShareGrpc$MethodHandlers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/ShareGrpc$ShareBaseDescriptorSupplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/ShareGrpc$ShareBlockingStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/ShareGrpc$ShareFileDescriptorSupplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/ShareGrpc$ShareFutureStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/ShareGrpc$ShareImplBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/ShareGrpc$ShareMethodDescriptorSupplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/ShareGrpc$ShareStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/ShareGrpc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/SharedMessage$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_2_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__com_google_guava_guava_30_0_android.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_30_0_android.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_12_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_12_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__io_grpc_grpc_api_1_37_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_api_1_37_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__io_grpc_grpc_context_1_37_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_37_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__io_grpc_grpc_core_1_37_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_core_1_37_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_37_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_37_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_37_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_37_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_37_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_37_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__io_grpc_grpc_stub_1_37_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_stub_1_37_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__io_perfmark_perfmark_api_0_23_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_perfmark_perfmark_api_0_23_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__isel_deetc_cd_ChatServiceContract_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__isel_deetc_cd_ChatServiceContract_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_19.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/runClient.bat" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/runClient.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/src/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/desktop.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/src/main/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/main/desktop.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/src/main/java/chatclient/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/main/java/chatclient/ChatClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/src/main/java/chatclient/ClientChatObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/main/java/chatclient/ClientChatObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/src/main/java/chatclient/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/main/java/chatclient/desktop.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/src/main/java/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/main/java/desktop.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/target/classes/chatclient/ChatClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/target/classes/chatclient/ChatClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient1/target/classes/chatclient/ClientChatObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/target/classes/chatclient/ClientChatObserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__com_google_guava_guava_30_0_android.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_12_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__io_grpc_grpc_api_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__io_grpc_grpc_context_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__io_grpc_grpc_core_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__io_grpc_grpc_stub_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__io_perfmark_perfmark_api_0_23_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__isel_deetc_cd_ChatServiceContract_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/runClient.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/src/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/src/main/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/src/main/java/chatclient/ChatClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/src/main/java/chatclient/ClientChatObserver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/src/main/java/chatclient/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/src/main/java/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/target/classes/chatclient/ChatClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient2/target/classes/chatclient/ClientChatObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__com_google_guava_guava_30_0_android.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_12_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__io_grpc_grpc_api_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__io_grpc_grpc_context_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__io_grpc_grpc_core_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__io_grpc_grpc_stub_1_37_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__io_perfmark_perfmark_api_0_23_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__isel_deetc_cd_ChatServiceContract_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/ChatClient2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/runClient.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/src/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/src/main/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/src/main/java/chatclient/ChatClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/src/main/java/chatclient/ClientChatObserver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/src/main/java/chatclient/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/src/main/java/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/target/classes/chatclient/ChatClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient3/target/classes/chatclient/ClientChatObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_2_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__com_google_guava_guava_30_1_android.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_30_1_android.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_17_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_17_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__io_grpc_grpc_api_1_41_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_api_1_41_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__io_grpc_grpc_context_1_41_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_41_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__io_grpc_grpc_core_1_41_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_core_1_41_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_41_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_41_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_41_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_41_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_41_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_41_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__io_grpc_grpc_stub_1_41_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_stub_1_41_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__io_perfmark_perfmark_api_0_23_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__io_perfmark_perfmark_api_0_23_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__isel_deetc_cd_ChatServiceContract_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/.idea/libraries/Maven__isel_deetc_cd_ChatServiceContract_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_19.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/runServer.bat" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/runServer.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/src/main/java/chatserver/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/chatserver/ChatServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/src/main/java/chatserver/ChatServerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/chatserver/ChatServerClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/src/main/java/chatserver/ChatServerServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/chatserver/ChatServerServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/src/main/java/chatserver/ServerBroadcastObserver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/target/classes/chatserver/ChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/target/classes/chatserver/ChatServerClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServerClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/target/classes/chatserver/ChatServerServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServerServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer1/target/classes/chatserver/ServerBroadcastObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ServerBroadcastObserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__com_google_guava_guava_30_1_android.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_17_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__io_grpc_grpc_api_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__io_grpc_grpc_context_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__io_grpc_grpc_core_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__io_grpc_grpc_stub_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__io_perfmark_perfmark_api_0_23_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__isel_deetc_cd_ChatServiceContract_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/ChatServer2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/runServer.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/src/main/java/chatserver/ChatServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/src/main/java/chatserver/ChatServerClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/src/main/java/chatserver/ChatServerServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/src/main/java/chatserver/ServerBroadcastObserver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/target/classes/chatserver/ChatServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/target/classes/chatserver/ChatServerClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/target/classes/chatserver/ChatServerServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer2/target/classes/chatserver/ServerBroadcastObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__com_google_guava_guava_30_1_android.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_17_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__io_grpc_grpc_api_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__io_grpc_grpc_context_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__io_grpc_grpc_core_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__io_grpc_grpc_stub_1_41_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__io_perfmark_perfmark_api_0_23_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__isel_deetc_cd_ChatServiceContract_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/ChatServer3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/runServer.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/src/main/java/chatserver/ChatServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/src/main/java/chatserver/ChatServerClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/src/main/java/chatserver/ChatServerServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/src/main/java/chatserver/ServerBroadcastObserver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/target/classes/chatserver/ChatServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/target/classes/chatserver/ChatServerClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/target/classes/chatserver/ChatServerServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer3/target/classes/chatserver/ServerBroadcastObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/classes/chat.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatserver/ChatRingManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatserver/ChatRingManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatserver/ChatRingManagerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatserver/ChatRingManagerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatserver/ChatRingManagerServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatserver/ChatRingManagerServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatRingManager/target/classes/chatserver/ChatRingManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/target/classes/chatserver/ChatRingManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatRingManager/target/classes/chatserver/ChatRingManagerClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/target/classes/chatserver/ChatRingManagerClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatRingManager/target/classes/chatserver/ChatRingManagerServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/target/classes/chatserver/ChatRingManagerServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/chatserver/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/chatserver/ChatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/chatserver/ChatServerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/chatserver/ChatServerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/chatserver/ChatServerServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/chatserver/ChatServerServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServerClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServerClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServerServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServerServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enunciado.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/CD2122-TP1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/classes/chat.proto" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/src/main/proto/chat.proto" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/src/main/proto/chat.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/ServerToServerContract-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/ServerToServerContract-1.0-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/ServerToServerContract-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/ServerToServerContract-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastGrpc$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastGrpc$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastGrpc$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastGrpc$BroadcastBaseDescriptorSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastGrpc$BroadcastBlockingStub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastGrpc$BroadcastFileDescriptorSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastGrpc$BroadcastFutureStub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastGrpc$BroadcastImplBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastGrpc$BroadcastMethodDescriptorSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastGrpc$BroadcastStub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastGrpc$MethodHandlers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastGrpc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastMessage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastMessage$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/SharedMessage$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/SharedMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/BroadcastMessageOrBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/SharedMessageOrBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/Chat.class" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/classes/chat/Chat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/grpc-java/chat/BroadcastGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/grpc-java/chat/ShareGrpc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/BroadcastMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/SharedMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/BroadcastMessageOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/SharedMessageOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21KOGqjY32ytzfgH5pHDfZfdcCv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -370,9 +168,9 @@
     </configuration>
     <list>
       <item itemvalue="Application.ChatServer3" />
+      <item itemvalue="Application.ChatServer2" />
       <item itemvalue="Application.ChatRingManager" />
       <item itemvalue="Application.ChatServer1" />
-      <item itemvalue="Application.ChatServer2" />
       <item itemvalue="Application.ChatClient" />
     </list>
     <recent_temporary>
@@ -405,5 +203,36 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="dummy" />
+    <option name="LAST_COMMIT_MESSAGE" value="dummy" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1637744152226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1637744152226" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1637744152226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1637744152226" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1637744152226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1637744152226" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1637744152226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1637744152226" />
+    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1637742222717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637742222717" />
+    <state x="614" y="222" key="RollbackChangesDialog" timestamp="1637742166269">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637742166269" />
   </component>
 </project>

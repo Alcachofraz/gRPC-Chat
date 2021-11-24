@@ -25,9 +25,9 @@ public class ChatRingManager {
                     .build()
                     .start();
 
-            logger.info("Server started, listening on " + serverPort + "...");
+            logger.info("RING_MANAGER: Server started, listening on " + serverPort + "...\n");
 
-            System.err.println("*** Server awaiting termination...");
+            System.err.println("*** Server awaiting termination... ***\n");
 
             svc.awaitTermination();
         } catch (Exception e) {

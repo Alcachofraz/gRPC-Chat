@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>leic.deetc.cd</groupId>
-    <artifactId>ChatServer1</artifactId>
+    <artifactId>ChatServer</artifactId>
     <version>1.0</version>
 
     <properties>

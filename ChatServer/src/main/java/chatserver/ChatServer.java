@@ -37,8 +37,6 @@ public class ChatServer {
 
             EndPoint next = blockingStubEnroll.enroll(chat.EndPoint.newBuilder().setIp(serverIP).setPort(serverPort).build());
 
-            System.out.println("Next: " + next.getIp() + ":" + next.getPort());
-
             if (channelEnroll != null) {
                 logger.log(Level.INFO, "Shutdown channel to Ring Manager.");
                 channelEnroll.shutdown().awaitTermination(5, TimeUnit.SECONDS);
@@ -51,24 +49,25 @@ public class ChatServer {
                     .usePlaintext()
                     .build();
 
-            BroadcastGrpc.BroadcastBlockingStub blockingStubBroadcast = BroadcastGrpc.newBlockingStub(channelBroadcast);
+            ShareGrpc.ShareBlockingStub blockingStubShare = ShareGrpc.newBlockingStub(channelBroadcast);
 
             final Server svc = ServerBuilder.forPort(serverPort)
-                    .addService(new ChatServerClient(blockingStubBroadcast))
-                    .addService(new ChatServerServer(blockingStubBroadcast))
+                    .addService(new ChatServerClient(blockingStubShare))
+                    .addService(new ChatServerServer(blockingStubShare))
                     .build()
                     .start();
 
-            logger.info("Server started, listening on " + serverPort + "...");
+            logger.info("SERVER: Server started, listening on " + serverPort + "...");
+            logger.info("SERVER: Next server endpoint: " + next.getIp() + ":" + next.getPort() + "\n");
 
-            System.err.println("*** server await termination");
+            System.err.println("*** Server awaiting termination... ***\n");
 
             svc.awaitTermination();
         } catch (Exception e) {
             e.printStackTrace();
         }
         if (channelBroadcast != null) {
-            logger.log(Level.INFO, "Shutdown channel to Next Server in Ring.");
+            logger.log(Level.INFO, "SERVER: Shutdown channel to Next Server in Ring.");
             channelBroadcast.shutdown().awaitTermination(5, TimeUnit.SECONDS);
         }
     }
@@ -82,7 +81,7 @@ public class ChatServer {
                 ChatServer.clients.get(clientDest).onNext(outMessage);
             } catch (Throwable ex) {
                 // error calling remote client, remove client name and callback
-                System.out.println("Client " + clientDest.getName() + " removed");
+                System.out.println("SERVER: Client " + clientDest.getName() + " removed (error calling remote)");
                 ChatServer.clients.remove(clientDest);
             }
         }

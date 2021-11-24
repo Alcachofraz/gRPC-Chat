@@ -17,7 +17,7 @@ public class ChatRingManagerClient extends ServerProviderGrpc.ServerProviderImpl
 
     @Override
     public void requestServer(Empty request, StreamObserver<EndPoint> responseObserver) {
-        ChatRingManager.logger.info("Got server request. Returning " + ChatRingManager.ring.get(rrServer).getIp() + ":" + ChatRingManager.ring.get(rrServer).getPort());
+        ChatRingManager.logger.info("CLIENT-RING_MANAGER: Got server request. Returning " + ChatRingManager.ring.get(rrServer).getIp() + ":" + ChatRingManager.ring.get(rrServer).getPort());
         responseObserver.onNext(ChatRingManager.ring.get(rrServer));
         responseObserver.onCompleted();
         // Increment Round Robin index:

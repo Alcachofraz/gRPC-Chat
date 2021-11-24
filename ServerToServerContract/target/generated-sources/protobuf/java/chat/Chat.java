@@ -15,10 +15,10 @@ public final class Chat {
         (com.google.protobuf.ExtensionRegistryLite) registry);
   }
   static final com.google.protobuf.Descriptors.Descriptor
-    internal_static_forum_BroadcastMessage_descriptor;
+    internal_static_forum_SharedMessage_descriptor;
   static final 
     com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
-      internal_static_forum_BroadcastMessage_fieldAccessorTable;
+      internal_static_forum_SharedMessage_fieldAccessorTable;
   static final com.google.protobuf.Descriptors.Descriptor
     internal_static_forum_EndPoint_descriptor;
   static final 
@@ -34,23 +34,23 @@ public final class Chat {
   static {
     java.lang.String[] descriptorData = {
       "\n\nchat.proto\022\005forum\032\033google/protobuf/emp" +
-      "ty.proto\"[\n\020BroadcastMessage\022\020\n\010fromUser" +
-      "\030\001 \001(\t\022%\n\014originServer\030\002 \001(\0132\017.forum.End" +
-      "Point\022\016\n\006txtMsg\030\003 \001(\t\"$\n\010EndPoint\022\n\n\002ip\030" +
-      "\001 \001(\t\022\014\n\004port\030\002 \001(\0052P\n\tBroadcast\022C\n\020broa" +
-      "dcastMessage\022\027.forum.BroadcastMessage\032\026." +
-      "google.protobuf.EmptyB\010\n\004chatP\001b\006proto3"
+      "ty.proto\"X\n\rSharedMessage\022\020\n\010fromUser\030\001 " +
+      "\001(\t\022%\n\014originServer\030\002 \001(\0132\017.forum.EndPoi" +
+      "nt\022\016\n\006txtMsg\030\003 \001(\t\"$\n\010EndPoint\022\n\n\002ip\030\001 \001" +
+      "(\t\022\014\n\004port\030\002 \001(\0052E\n\005Share\022<\n\014shareMessag" +
+      "e\022\024.forum.SharedMessage\032\026.google.protobu" +
+      "f.EmptyB\010\n\004chatP\001b\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,
         new com.google.protobuf.Descriptors.FileDescriptor[] {
           com.google.protobuf.EmptyProto.getDescriptor(),
         });
-    internal_static_forum_BroadcastMessage_descriptor =
+    internal_static_forum_SharedMessage_descriptor =
       getDescriptor().getMessageTypes().get(0);
-    internal_static_forum_BroadcastMessage_fieldAccessorTable = new
+    internal_static_forum_SharedMessage_fieldAccessorTable = new
       com.google.protobuf.GeneratedMessageV3.FieldAccessorTable(
-        internal_static_forum_BroadcastMessage_descriptor,
+        internal_static_forum_SharedMessage_descriptor,
         new java.lang.String[] { "FromUser", "OriginServer", "TxtMsg", });
     internal_static_forum_EndPoint_descriptor =
       getDescriptor().getMessageTypes().get(1);
