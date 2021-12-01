@@ -1,10 +1,10 @@
 # gRPC-Chat
 
-## introduction
+## Introduction
 
-Ring of servers running a **Chat** service.
+This project seeks to implement a Ring of servers running a **Chat** service.
 
-This project implements a system composed of 3 entities: **Clients**, **Servers** and a **Ring Manager**. The **Ring Manager** is essentially a server as well, that will manage the ring of operational servers.
+Consists of a system with 3 entities: **Clients**, **Servers** and a **Ring Manager**. The **Servers** will be running the **Chat** service. The **Ring Manager** is essentially a server as well, that will manage the ring of operational servers. The **Clients** will register with a username and send messages to each other.
 
 The packages for each can be found in the /packages folder.
 
