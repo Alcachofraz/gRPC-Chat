@@ -9,7 +9,7 @@ Consists of a system with 3 entities: **Clients**, **Servers** and a **Ring Mana
 This ring arrangement contributes for load distribution in the requests of multiple clients. It will take advantage of the **gRPC framework** (Google Remote Procedure Call) to connect services and clients through **Protocol Buffers**.
 Thus, the contract for the various services provided will be written in the **Protocol Buffer** language, which, through the **Proto Compiler**, will generate the **Java** code containing the **Stubs** and **Serialization Classes**.
 
-The packages for each can be found in the /packages folder.
+The packages for each can be found in the **/packages** folder.
 
 ## Usage
 
