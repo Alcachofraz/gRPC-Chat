@@ -6,6 +6,9 @@ This project seeks to implement a Ring of servers running a **Chat** service.
 
 Consists of a system with 3 entities: **Clients**, **Servers** and a **Ring Manager**. The **Servers** will be running the **Chat** service. The **Ring Manager** is essentially a server as well, that will manage the ring of operational servers. The **Clients** will register with a username and send messages to each other.
 
+This ring arrangement contributes for load distribution in the requests of multiple clients. It will take advantage of the **gRPC framework** (Google Remote Procedure Call) to connect services and clients through **Protocol Buffers**.
+Thus, the contract for the various services provided will be written in the **Protocol Buffer** language, which, through the **Proto Compiler**, will generate the **Java** code containing the **Stubs** and **Serialization Classes**.
+
 The packages for each can be found in the /packages folder.
 
 ## Usage
