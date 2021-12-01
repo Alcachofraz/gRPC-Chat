@@ -14,9 +14,9 @@ The packages for each can be found in the /packages folder.
 
 To execute ChatRingManager.jar use: 
 
-'''
+´´´
 **java -jar ChatRingManager.jar --endpoint=<ip>:<port> --ring-size=<ringSize>** 
-''' 
+´´´
   
 where **ip** and **port** make the **endpoint** where **Ring Manager** should be hosted, and **ringSize** is the number of servers expected to enroll in the ring.
 
