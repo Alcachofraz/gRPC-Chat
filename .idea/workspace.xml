@@ -23,39 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="197966d2-5bd8-4ec4-afa8-bb51bbdc636e" name="Changes" comment="Report">
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManagerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManagerClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManagerServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManagerServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatRingManager/target/classes/chatserver/ChatRingManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatRingManager/target/classes/chatserver/ChatRingManagerClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatRingManager/target/classes/chatserver/ChatRingManagerServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/ClientToRingManagerContract-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToRingManagerContract/target/ClientToRingManagerContract-1.0-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/ClientToRingManagerContract-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToRingManagerContract/target/ClientToRingManagerContract-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/grpc-java/chat/ServerProviderGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/grpc-java/chat/ServerProviderGrpc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/java/chat/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/java/chat/Chat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPointOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPointOrBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToRingManagerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/ClientToServerContract-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/ClientToServerContract-1.0-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/ClientToServerContract-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/ClientToServerContract-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/grpc-java/chat/ChatGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/grpc-java/chat/ChatGrpc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/ChatMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/ChatMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/ChatMessageOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/ChatMessageOrBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/ChatOuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/ChatOuterClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/UserID.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/UserID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/UserIDOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/UserIDOrBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/G11-CD2122-TP1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/G11-CD2122-TP1.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/ServerToRingManagerContract-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/ServerToRingManagerContract-1.0-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/ServerToRingManagerContract-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/ServerToRingManagerContract-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/grpc-java/chat/EnrollGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/grpc-java/chat/EnrollGrpc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/java/chat/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/java/chat/Chat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPointOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPointOrBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/ServerToServerContract-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/ServerToServerContract-1.0-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/ServerToServerContract-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/ServerToServerContract-1.0.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637790040056</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Final Commit">
+      <created>1638368920771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638368920771</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,33 +176,38 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="dummy" />
     <MESSAGE value="Report" />
-    <option name="LAST_COMMIT_MESSAGE" value="Report" />
+    <MESSAGE value="Final Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="507" y="434" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1638367769819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="507" y="434" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638367769819" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1638368248935">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1638370954611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1638368248935" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1638368248935">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1638370954611" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1638370954611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1638368248935" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1638368248935">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1638370954611" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1638370954611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1638368248935" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1638368248935">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1638370954611" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1638370954611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1638368248935" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1638370954611" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1638367758107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1638367758107" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1638368949452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1638368949452" />
     <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1638367776980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
