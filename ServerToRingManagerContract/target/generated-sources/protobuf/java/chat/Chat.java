@@ -28,15 +28,14 @@ public final class Chat {
       descriptor;
   static {
     java.lang.String[] descriptorData = {
-      "\n\nchat.proto\022\005forum\032\033google/protobuf/emp" +
-      "ty.proto\"$\n\010EndPoint\022\n\n\002ip\030\001 \001(\t\022\014\n\004port" +
-      "\030\002 \001(\00524\n\006Enroll\022*\n\006enroll\022\017.forum.EndPo" +
-      "int\032\017.forum.EndPointB\010\n\004chatP\001b\006proto3"
+      "\n\nchat.proto\022\005forum\"$\n\010EndPoint\022\n\n\002ip\030\001 " +
+      "\001(\t\022\014\n\004port\030\002 \001(\00524\n\006Enroll\022*\n\006enroll\022\017." +
+      "forum.EndPoint\032\017.forum.EndPointB\010\n\004chatP" +
+      "\001b\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,
         new com.google.protobuf.Descriptors.FileDescriptor[] {
-          com.google.protobuf.EmptyProto.getDescriptor(),
         });
     internal_static_forum_EndPoint_descriptor =
       getDescriptor().getMessageTypes().get(0);
@@ -44,7 +43,6 @@ public final class Chat {
       com.google.protobuf.GeneratedMessageV3.FieldAccessorTable(
         internal_static_forum_EndPoint_descriptor,
         new java.lang.String[] { "Ip", "Port", });
-    com.google.protobuf.EmptyProto.getDescriptor();
   }
 
   // @@protoc_insertion_point(outer_class_scope)

@@ -1,1 +1,1 @@
-java -cp target\ChatClient-1.0-jar-with-dependencies.jar chatclient.ChatClient
+java -cp target\ChatClient-1.0-jar-with-dependencies.jar chatClient.ChatClient
