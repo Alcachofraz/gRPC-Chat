@@ -24,26 +24,12 @@
   <component name="ChangeListManager">
     <list default="true" id="197966d2-5bd8-4ec4-afa8-bb51bbdc636e" name="Changes" comment="Report">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient/runClient.bat" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/runClient.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient/src/main/java/chatclient/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/main/java/chatClient/ChatClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient/src/main/java/chatclient/ClientChatObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/main/java/chatClient/ClientChatObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient/src/main/java/chatclient/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/main/java/chatClient/desktop.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient/target/classes/chatclient/ChatClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/target/classes/chatclient/ChatClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatClient/target/classes/chatclient/ClientChatObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/target/classes/chatclient/ClientChatObserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatRingManager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatRingManager/runServer.bat" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/runServer.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatserver/ChatRingManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatserver/ChatRingManagerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManagerClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatserver/ChatRingManagerServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManagerServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/runServer.bat" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/runServer.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/chatserver/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/chatServer/ChatServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/chatserver/ChatServerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/chatServer/ChatServerClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/chatserver/ChatServerServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/chatServer/ChatServerServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServerClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServerClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServerServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/target/classes/chatserver/ChatServerServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManagerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManagerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManagerServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatRingManager/src/main/java/chatRingManager/ChatRingManagerServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatRingManager/target/classes/chatserver/ChatRingManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatRingManager/target/classes/chatserver/ChatRingManagerClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatRingManager/target/classes/chatserver/ChatRingManagerServer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/ClientToRingManagerContract-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToRingManagerContract/target/ClientToRingManagerContract-1.0-jar-with-dependencies.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/ClientToRingManagerContract-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToRingManagerContract/target/ClientToRingManagerContract-1.0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/grpc-java/chat/ServerProviderGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/grpc-java/chat/ServerProviderGrpc.java" afterDir="false" />
@@ -51,67 +37,6 @@
       <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPointOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPointOrBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToRingManagerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/annotations.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/auth.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/backend.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/billing.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/client.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/config_change.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/consumer.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/context.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/control.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/distribution.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/documentation.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/endpoint.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/field_behavior.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/http.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/httpbody.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/label.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/launch_stage.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/log.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/logging.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/metric.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/monitored_resource.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/monitoring.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/quota.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/resource.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/service.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/source_info.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/system_parameter.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/usage.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/cloud/audit/audit_log.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/geo/type/viewport.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/logging/type/http_request.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/logging/type/log_severity.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/longrunning/operations.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/code.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/context/attribute_context.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/error_details.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/status.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/calendar_period.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/color.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/date.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/datetime.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/dayofweek.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/expr.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/fraction.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/latlng.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/money.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/postal_address.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/quaternion.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/timeofday.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/any.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/api.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/compiler/plugin.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/descriptor.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/duration.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/empty.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/field_mask.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/source_context.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/struct.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/timestamp.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/type.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/wrappers.proto" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/ClientToServerContract-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/ClientToServerContract-1.0-jar-with-dependencies.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/ClientToServerContract-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/ClientToServerContract-1.0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/grpc-java/chat/ChatGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/grpc-java/chat/ChatGrpc.java" afterDir="false" />
@@ -121,207 +46,16 @@
       <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/UserID.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/UserID.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/UserIDOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/generated-sources/protobuf/java/chat/UserIDOrBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ClientToServerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/annotations.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/auth.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/backend.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/billing.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/client.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/config_change.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/consumer.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/context.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/control.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/distribution.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/documentation.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/endpoint.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/field_behavior.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/http.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/httpbody.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/label.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/launch_stage.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/log.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/logging.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/metric.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/monitored_resource.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/monitoring.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/quota.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/resource.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/service.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/source_info.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/system_parameter.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/usage.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/cloud/audit/audit_log.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/geo/type/viewport.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/logging/type/http_request.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/logging/type/log_severity.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/longrunning/operations.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/code.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/context/attribute_context.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/error_details.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/status.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/calendar_period.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/color.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/date.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/datetime.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/dayofweek.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/expr.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/fraction.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/latlng.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/money.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/postal_address.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/quaternion.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/timeofday.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/any.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/api.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/compiler/plugin.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/descriptor.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/duration.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/empty.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/field_mask.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/source_context.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/struct.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/timestamp.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/type.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/wrappers.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/src/main/proto/chat.proto" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/src/main/proto/chat.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/G11-CD2122-TP1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/G11-CD2122-TP1.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/ServerToRingManagerContract-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/ServerToRingManagerContract-1.0-jar-with-dependencies.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/ServerToRingManagerContract-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/ServerToRingManagerContract-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/classes/chat/Chat.class" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/classes/chat/Chat.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/grpc-java/chat/EnrollGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/grpc-java/chat/EnrollGrpc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/java/chat/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/java/chat/Chat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPointOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/generated-sources/protobuf/java/chat/EndPointOrBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToRingManagerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/annotations.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/auth.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/backend.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/billing.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/client.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/config_change.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/consumer.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/context.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/control.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/distribution.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/documentation.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/endpoint.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/field_behavior.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/http.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/httpbody.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/label.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/launch_stage.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/log.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/logging.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/metric.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/monitored_resource.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/monitoring.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/quota.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/resource.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/service.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/source_info.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/system_parameter.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/usage.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/cloud/audit/audit_log.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/geo/type/viewport.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/logging/type/http_request.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/logging/type/log_severity.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/longrunning/operations.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/code.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/context/attribute_context.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/error_details.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/status.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/calendar_period.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/color.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/date.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/datetime.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/dayofweek.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/expr.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/fraction.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/latlng.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/money.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/postal_address.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/quaternion.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/timeofday.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/any.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/api.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/compiler/plugin.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/descriptor.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/duration.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/empty.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/field_mask.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/source_context.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/struct.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/timestamp.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/type.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToRingManagerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/wrappers.proto" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/ServerToServerContract-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/ServerToServerContract-1.0-jar-with-dependencies.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/ServerToServerContract-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/ServerToServerContract-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/grpc-java/chat/ShareGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/grpc-java/chat/ShareGrpc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/Chat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/EndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/EndPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/EndPointOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/EndPointOrBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/SharedMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/SharedMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/SharedMessageOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/generated-sources/protobuf/java/chat/SharedMessageOrBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ServerToServerContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/annotations.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/auth.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/backend.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/billing.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/client.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/config_change.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/consumer.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/context.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/control.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/distribution.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/documentation.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/endpoint.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/field_behavior.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/http.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/httpbody.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/label.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/launch_stage.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/log.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/logging.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/metric.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/monitored_resource.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/monitoring.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/quota.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/resource.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/service.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/source_info.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/system_parameter.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/api/usage.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/cloud/audit/audit_log.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/geo/type/viewport.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/logging/type/http_request.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/logging/type/log_severity.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/longrunning/operations.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/code.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/context/attribute_context.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/error_details.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/rpc/status.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/calendar_period.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/color.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/date.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/datetime.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/dayofweek.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/expr.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/fraction.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/latlng.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/money.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/postal_address.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/quaternion.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/899830c28b81fa3ce8b2f3e95aa49426/google/type/timeofday.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/any.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/api.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/compiler/plugin.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/descriptor.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/duration.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/empty.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/field_mask.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/source_context.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/struct.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/timestamp.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/type.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerToServerContract/target/protoc-dependencies/9d5f10fa9517290c0a11974a013f292c/google/protobuf/wrappers.proto" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -330,6 +64,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="21KOGqjY32ytzfgH5pHDfZfdcCv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -345,9 +86,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/ChatRingManager/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RunManager" selected="Application.ChatServer3">
@@ -458,6 +201,36 @@
     <MESSAGE value="dummy" />
     <MESSAGE value="Report" />
     <option name="LAST_COMMIT_MESSAGE" value="Report" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="434" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1638367769819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="507" y="434" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638367769819" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1638368248935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1638368248935" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1638368248935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1638368248935" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1638368248935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1638368248935" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1638368248935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1638368248935" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1638367758107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1638367758107" />
+    <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1638367776980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="298" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638367776980" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

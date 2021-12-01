@@ -16,11 +16,11 @@ public class ChatRingManagerServer extends EnrollGrpc.EnrollImplBase {
     @Override
     public void enroll(EndPoint request, StreamObserver<EndPoint> responseObserver) {
         ChatRingManager.ring.add(request);
-        ChatRingManager.logger.info("SERVER-RING_MANAGER: " + request.getIp() + ":" + request.getPort() + " has enrolled. Ring: [" + ChatRingManager.ring.size() + "/" + ChatRingManager.RING_SIZE + "]");
+        ChatRingManager.logger.info("SERVER-RING_MANAGER: " + request.getIp() + ":" + request.getPort() + " has enrolled. Ring: [" + ChatRingManager.ring.size() + "/" + ChatRingManager.ringSize + "]");
         servers.add(responseObserver);
-        if (servers.size() == ChatRingManager.RING_SIZE) {
-            for (int i = 0; i < ChatRingManager.RING_SIZE; i++) {
-                servers.get(i).onNext(ChatRingManager.ring.get((i + 1 == ChatRingManager.RING_SIZE) ? 0 : i + 1));
+        if (servers.size() == ChatRingManager.ringSize) {
+            for (int i = 0; i < ChatRingManager.ringSize; i++) {
+                servers.get(i).onNext(ChatRingManager.ring.get((i + 1 == ChatRingManager.ringSize) ? 0 : i + 1));
                 servers.get(i).onCompleted();
             }
         }

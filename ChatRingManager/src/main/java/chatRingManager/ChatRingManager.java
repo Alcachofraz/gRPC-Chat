@@ -12,15 +12,19 @@ public class ChatRingManager {
 
     public static final Logger logger = Logger.getLogger(ChatRingManager.class.getName());
     static int serverPort = 9000;
-    public static final int RING_SIZE = 3;
+    public static int ringSize = 3;
 
     public static List<EndPoint> ring = new ArrayList<>();
 
     public static void main(String[] args) {
         HashMap<String, String> keyValueArgs = convertToKeyValuePair(args);
         String endpoint;
+        String size;
         if ((endpoint = keyValueArgs.get("endpoint")) != null) {
             serverPort = Integer.parseInt(endpoint.substring(endpoint.indexOf(":") + 1));
+        }
+        if ((size = keyValueArgs.get("ring-size")) != null) {
+            ringSize = Integer.parseInt(size);
         }
 
         try {

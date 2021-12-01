@@ -21,6 +21,6 @@ public class ChatRingManagerClient extends ServerProviderGrpc.ServerProviderImpl
         responseObserver.onNext(ChatRingManager.ring.get(rrServer));
         responseObserver.onCompleted();
         // Increment Round Robin index:
-        rrServer = (rrServer + 1 == ChatRingManager.RING_SIZE) ? 0 : rrServer + 1;
+        rrServer = (rrServer + 1 == ChatRingManager.ringSize) ? 0 : rrServer + 1;
     }
 }
