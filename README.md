@@ -24,7 +24,7 @@ java -jar ChatRingManager.jar --endpoint=<ip>:<port> --ring-size=<ringSize>
 > Where **ip** and **port** make the **endpoint** where **Ring Manager** should be hosted, and **ringSize** is the number of servers expected to enroll in the ring. Example: 
 
 ```
-java -jar ChatRingManager.jar --endpoint=localhost:9000 --ring-size=3
+java -jar ChatRingManager.jar --endpoint=localhost:5000 --ring-size=3
 ```
 
 ### ChatServer
@@ -32,13 +32,13 @@ java -jar ChatRingManager.jar --endpoint=localhost:9000 --ring-size=3
 > To execute ChatServer.jar use: 
 
 ```
-java -jar ChatRingManager.jar --endpoint-ring-manager=<ringmanagerIp>:<ringManagerPort> --endpoint=<ip>:<port>
+java -jar ChatServer.jar --endpoint-ring-manager=<ringmanagerIp>:<ringManagerPort> --endpoint=<ip>:<port>
 ```
 
 > Where **ringmanagerIp** and **ringManagerPort** make the endpoint where the **Ring Manager** is hosted, and **ip** and **port** make the **endpoint** where the **Chat Server** should be hosted. Example:
 
 ```
-java -jar ChatRingManager.jar --endpoint-ring-manager=localhost:9000 --endpoint=localhost:9001
+java -jar ChatRingManager.jar --endpoint-ring-manager=localhost:5000 --endpoint=localhost:5001
 ```
 
 ### ChatClient
@@ -52,5 +52,5 @@ java -jar ChatClient.jar --endpoint-ring-manager=<ringmanagerIp>:<ringManagerPor
 > Where **ringmanagerIp** and **ringManagerPort** make the endpoint where the **Ring Manager** is hosted. Example:
 
 ```
-java -jar ChatClient.jar --endpoint-ring-manager=localhost:9000
+java -jar ChatClient.jar --endpoint-ring-manager=localhost:5000
 ```
