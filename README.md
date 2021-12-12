@@ -38,7 +38,7 @@ java -jar ChatServer.jar --endpoint-ring-manager=<ringmanagerIp>:<ringManagerPor
 > Where **ringmanagerIp** and **ringManagerPort** make the endpoint where the **Ring Manager** is hosted, and **ip** and **port** make the **endpoint** where the **Chat Server** should be hosted. Example:
 
 ```
-java -jar ChatRingManager.jar --endpoint-ring-manager=localhost:5000 --endpoint=localhost:5001
+java -jar ChatServer.jar --endpoint-ring-manager=localhost:5000 --endpoint=localhost:5001
 ```
 
 ### ChatClient
